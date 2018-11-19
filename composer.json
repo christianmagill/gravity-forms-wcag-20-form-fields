@@ -1,0 +1,13 @@
+{
+  "name": "technosailor/gravity-forms-wcag-20-form-fields",
+  "type": "library",
+  "description": "Fork of the original https://wordpress.org/plugins/gravity-forms-wcag-20-form-fields/ (PHP 7.2 Compatiibility) ",
+  "license": "GPLv2",
+  "config": {
+    "vendor-dir": "vendor",
+    "preferred-install": "dist"
+  },
+  "require": {
+    "php": ">=7.2"
+  }
+}
